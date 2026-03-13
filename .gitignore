@@ -63,4 +63,12 @@ contiki-nrf52/ota-server/mac.txt
 cscope.out
 tags
 
+# simuletion files
+sim-OTA/*bin
+sim-OTA/*dd
+sim-OTA/app/*bin
+sim-OTA/test_app
+sim-OTA/fwserver/fwserver
 
+# vscode
+.vscode

@@ -25,3 +25,9 @@
 [submodule "freeRTOS-Freescale-K64F-scp/picotcp"]
 	path = freeRTOS-Freescale-K64F-scp/picotcp
 	url = https://github.com/tass-belgium/picotcp
+[submodule "sim-OTA/wolfMQTT"]
+	path = sim-OTA/wolfMQTT
+	url = https://github.com/wolfSSL/wolfMQTT.git
+[submodule "sim-OTA/wolfBoot"]
+	path = sim-OTA/wolfBoot
+	url = https://github.com/wolfSSL/wolfBoot.git
